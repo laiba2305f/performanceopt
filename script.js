@@ -5,5 +5,4 @@ script.async = true;
 document.body.appendChild(script);
 
 
-// your-scripts.js
 
